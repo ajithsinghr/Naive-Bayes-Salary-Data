@@ -4,6 +4,7 @@
 Data Description:
 
 age -- age of a person
+
 workclass	-- A work class is a grouping of work 
 education	-- Education of an individuals	
 maritalstatus -- Marital status of an individulas	
